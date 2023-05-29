@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Open+Sans&family=Orbitron:wght@400;800&family=Righteous&family=Ultra&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Righteous', 'Ultra','Orbitron','Happy Monkey',serif;
+    background-image: url("images/Bg1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30%;
+}
+
+p {
+    margin-top: 15px;
+    font-size: 32px;
+}
