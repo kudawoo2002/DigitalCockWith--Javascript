@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Righteous', 'Ultra','Orbitron','Happy Monkey',serif;
-    background-image: url("Bg1.jpg");
+    background-image: url("images/Bg1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -21,6 +21,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 30%;
+    padding: 10%;
 }
 
 p {
